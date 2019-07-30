@@ -1,0 +1,74 @@
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+body {
+
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url('tomoko-uji-eriuKJwcdjI-unsplash.jpg');
+}
+
+img {
+
+  width: 15%;
+  height: 15%;
+  box-shadow: 3px 3px 2px 1px #888888;
+  position: relative;
+  left: 575px;
+  border-radius: 50%;
+  
+}
+
+a {
+  text-decoration: unset;
+  color:pink;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: lime;
+}
+
+p {
+  font-weight: 100;
+  font-size: 200;
+}
+
+span {
+  font-style: italic;
+
+}
+
+.banner{
+  text-align: center;
+  background-color: pink;
+  border-radius: 10px;
+  opacity: 0.5;
+  padding: 5px 5px 5px 5px;
+
+}
+
+
+
+
+.card {
+
+  text-align: center;
+  margin: 20px 0px;
+}
+
+
+#footer {
+  color: white;
+  background-color: black;
+}
+
+#footer #credit{
+  text-align: right;
+}
+
+#footer i {
+  color: white;
+}
